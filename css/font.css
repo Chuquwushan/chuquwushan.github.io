@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "Yahei";
+    font-display: swap;
+    src: url("C:\Users\yueyueniao\chuquwushan\themes\butterfly\source\font\Yahei.ttf") format("truetype");
+}
+
+body {
+    font-family: "Yahei"
+}
